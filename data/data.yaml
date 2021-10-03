@@ -1,0 +1,5 @@
+train: ppe_data/train/images
+val: ppe_data/val/images
+
+nc: 6
+names: ['Person', 'Vest', 'Blue Helmet', 'Red Helmet', 'White Helmet', 'Yellow Helmet']
